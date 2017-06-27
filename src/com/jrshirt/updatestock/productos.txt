@@ -1,0 +1,8 @@
+;Angelico Biella;;XL;82x62;20;
+;FC Barcelona;Navarro;L;79x55;40;
+;FC Barcelona;Lorbek;L;79x55;40;
+;Team GB;;L;90x57;28;
+;Team GB;;XL;93x57;28;
+;Panathinaikos BC;Batiste;XL;81x62;30;
+;Panathinaikos BC;Haislip;XL;82x61;30;
+;Olympiakos FC;;XL;78x61;16;
